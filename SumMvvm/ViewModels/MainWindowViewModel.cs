@@ -26,6 +26,9 @@ namespace SumMvvm.ViewModels
         {
             get { return _y; }
             set { SetProperty(ref _y, value); }
+
+
+
         }
 
        
