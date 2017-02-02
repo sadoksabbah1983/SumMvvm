@@ -12,17 +12,22 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-
-namespace SumMvvm
+using SumMvvm.ViewModels;
+namespace SumMvvm.Views
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
     public partial class MainWindow : Window
     {
+     
         public MainWindow()
         {
             InitializeComponent();
+   
         }
+
+     
+      
     }
 }
