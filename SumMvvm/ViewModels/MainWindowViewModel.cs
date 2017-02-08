@@ -49,7 +49,7 @@ namespace SumMvvm.ViewModels
 
         private void OnSum()
         {
-            Z = X + Y;
+            Z = X   + Y;
         }
 
     }
